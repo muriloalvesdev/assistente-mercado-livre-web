@@ -28,6 +28,8 @@
     "e2e": "ng e2e"
   },
   "dependencies": {
+    "@angular-builders/custom-webpack": "^9.1.0",
+    "@angular-devkit/build-angular": "~0.901.5",
     "@angular/cli": "~9.1.5",
     "@angular/animations": "~9.1.6",
     "@angular/common": "~9.1.6",
